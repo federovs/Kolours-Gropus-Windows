@@ -1,0 +1,8 @@
+{
+    "name": "Enhanced Grayscale Window",
+    "description": "Adds multiple grayscale levels and window grouping functionality",
+    "uuid": "enhanced-grayscale-window@yourname",
+    "shell-version": ["3.36", "3.38", "40", "41", "42", "43", "44"],
+    "url": "https://github.com/yourname/enhanced-grayscale-window",
+    "version": 2
+}

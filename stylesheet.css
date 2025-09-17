@@ -1,0 +1,26 @@
+.window-grouper {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.window-thumbnail {
+    background-color: #3d3d3d;
+    border-radius: 5px;
+    padding: 10px;
+    border: 2px solid transparent;
+}
+
+.window-thumbnail:selected {
+    border-color: #4a90d9;
+}
+
+.window-thumbnail-image {
+    background-color: #2d2d2d;
+    border-radius: 3px;
+}
+
+.window-thumbnail-label {
+    color: #ffffff;
+    text-align: center;
+    margin-top: 8px;
+    font-size: 12px;
+}

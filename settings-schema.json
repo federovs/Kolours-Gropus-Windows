@@ -1,0 +1,46 @@
+{
+    "head": {
+        "type": "header",
+        "description": "Keyboard Shortcuts Configuration"
+    },
+    "grayscale-window-shortcut": {
+        "type": "keybinding",
+        "default": "<Ctrl><Alt>g",
+        "description": "Toggle grayscale on current window"
+    },
+    "grayscale-global-shortcut": {
+        "type": "keybinding",
+        "default": "<Ctrl><Alt><Shift>g",
+        "description": "Toggle global grayscale"
+    },
+    "window-group-shortcut": {
+        "type": "keybinding",
+        "default": "<Ctrl>t",
+        "description": "Show window group selector"
+    },
+    "grayscale-level-1-shortcut": {
+        "type": "keybinding",
+        "default": "<Ctrl><Alt>1",
+        "description": "Apply 25% grayscale to current window"
+    },
+    "grayscale-level-2-shortcut": {
+        "type": "keybinding",
+        "default": "<Ctrl><Alt>2",
+        "description": "Apply 50% grayscale to current window"
+    },
+    "grayscale-level-3-shortcut": {
+        "type": "keybinding",
+        "default": "<Ctrl><Alt>3",
+        "description": "Apply 75% grayscale to current window"
+    },
+    "grayscale-level-4-shortcut": {
+        "type": "keybinding",
+        "default": "<Ctrl><Alt>4",
+        "description": "Apply 100% grayscale to current window"
+    },
+    "grayscale-sepia-shortcut": {
+        "type": "keybinding",
+        "default": "<Ctrl><Alt>5",
+        "description": "Apply sepia effect to current window"
+    }
+}
